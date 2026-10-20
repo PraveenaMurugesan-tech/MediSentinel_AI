@@ -8,7 +8,7 @@ MediSentinel AI is an AI-powered mobile application designed to help users ident
 
 By combining **Agentic AI, Computer Vision, OCR, QR/Barcode Scanning, and structured drug-information sources**, MediSentinel AI aims to provide evidence-based medicine assessments through an intelligent, multi-agent workflow.
 
-> **Important:** A photograph alone cannot establish that a medicine is chemically genuine. MediSentinel AI aims to assess available evidence, identify uncertainty, and recommend further verification when necessary.
+> **Important:** A photograph alone cannot establish that a medicine is chemically genuine. MediSentinel AI aims to assess available evidence, identify uncertainty, and recommend further verification necessary.
 
 ---
 
